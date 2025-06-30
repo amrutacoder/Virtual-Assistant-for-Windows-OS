@@ -12,6 +12,6 @@ This project is a virtual AI desktop assistant designed to help you with daily t
 - **Alarm:** Set alarms to remind you of important tasks.
 - **Speed Test:** Check your internet speed easily.
 - **Location Detection:** Find and display your current location on Google Maps.
-- **COVID-19 Updates:** Get the latest COVID-19 statistics for any country.
+
 
 
