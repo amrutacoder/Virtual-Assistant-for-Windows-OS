@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>JarvisUi</class>
+ <widget class="QMainWindow" name="JarvisUi">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1908</width>
+    <height>932</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="bg_1">
+    <property name="geometry">
+     <rect>
+      <x>-90</x>
+      <y>0</y>
+      <width>2081</width>
+      <height>961</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/Black_Template.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>681</width>
+      <height>431</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 245, 245);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_3">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>10</y>
+      <width>741</width>
+      <height>431</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 245, 245);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_1">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>661</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/Iron_Template_9.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_2">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>20</y>
+      <width>721</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/live.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_3">
+    <property name="geometry">
+     <rect>
+      <x>-70</x>
+      <y>410</y>
+      <width>761</width>
+      <height>521</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/Ntuks.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_4">
+    <property name="geometry">
+     <rect>
+      <x>1470</x>
+      <y>10</y>
+      <width>431</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 245, 245);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_4">
+    <property name="geometry">
+     <rect>
+      <x>1480</x>
+      <y>20</y>
+      <width>411</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/Earth_Template.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Test_Time">
+    <property name="geometry">
+     <rect>
+      <x>1420</x>
+      <y>770</y>
+      <width>461</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+border -radius:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_5">
+    <property name="geometry">
+     <rect>
+      <x>1420</x>
+      <y>770</y>
+      <width>471</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border -raduis:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/gyhf.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Test_Day">
+    <property name="geometry">
+     <rect>
+      <x>1430</x>
+      <y>620</y>
+      <width>461</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+border -radius:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Test_Date">
+    <property name="geometry">
+     <rect>
+      <x>1430</x>
+      <y>460</y>
+      <width>461</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+border -radius:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_6">
+    <property name="geometry">
+     <rect>
+      <x>1420</x>
+      <y>620</y>
+      <width>471</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border -raduis:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/gyhf.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_7">
+    <property name="geometry">
+     <rect>
+      <x>1420</x>
+      <y>460</y>
+      <width>471</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border -raduis:none;
+color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>GUI matrials/gyhf.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_start">
+    <property name="geometry">
+     <rect>
+      <x>1480</x>
+      <y>250</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 0);
+color:rgb(0, 255, 255);
+font: 16pt &quot;MS Shell Dlg 2&quot;;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+font: 28pt &quot;MS Shell Dlg 2&quot;;</string>
+    </property>
+    <property name="text">
+     <string>START</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg_8">
+    <property name="geometry">
+     <rect>
+      <x>1470</x>
+      <y>240</y>
+      <width>431</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 245, 245);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_exit">
+    <property name="geometry">
+     <rect>
+      <x>1480</x>
+      <y>350</y>
+      <width>411</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 0);
+color:rgb(0, 255, 255);
+font: 16pt &quot;MS Shell Dlg 2&quot;;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+font: 28pt &quot;MS Shell Dlg 2&quot;;</string>
+    </property>
+    <property name="text">
+     <string>EXIT</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_youtube">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>460</y>
+      <width>301</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 26pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>YOUTUBE</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_whatsapp">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>620</y>
+      <width>301</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 24pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>WHATSAPP</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_chrome">
+    <property name="geometry">
+     <rect>
+      <x>1070</x>
+      <y>460</y>
+      <width>301</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 24pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(0, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>CHROME</string>
+    </property>
+   </widget>
+   <zorder>bg_1</zorder>
+   <zorder>Gif_3</zorder>
+   <zorder>bg_2</zorder>
+   <zorder>bg_3</zorder>
+   <zorder>Gif_1</zorder>
+   <zorder>Gif_2</zorder>
+   <zorder>bg_4</zorder>
+   <zorder>Gif_4</zorder>
+   <zorder>Test_Time</zorder>
+   <zorder>bg_5</zorder>
+   <zorder>Test_Day</zorder>
+   <zorder>Test_Date</zorder>
+   <zorder>bg_6</zorder>
+   <zorder>bg_7</zorder>
+   <zorder>bg_8</zorder>
+   <zorder>pushButton_start</zorder>
+   <zorder>pushButton_exit</zorder>
+   <zorder>pushButton_youtube</zorder>
+   <zorder>pushButton_whatsapp</zorder>
+   <zorder>pushButton_chrome</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
